@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tuhin%20Hawlader&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descSize=18&descAlignY=60" width="100%" alt="Tuhin Hawlader" />
 
-<img src="assets/profile.png" width="170" height="170" alt="Tuhin Hawlader" style="border-radius:50%" />
+<img src="profile.png" width="170" height="170" alt="Tuhin Hawlader" style="border-radius:50%" />
 
 <br/>
 
